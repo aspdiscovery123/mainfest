@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: aspdiscovery/images:app-18
+      - image: aspdiscovery/images:app-19
         name: flaskdemo
         resources: {}
 status: {}
